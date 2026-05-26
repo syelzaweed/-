@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "net",
+  "compatibility_date": "2026-05-26",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "wiki"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
