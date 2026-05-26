@@ -1,0 +1,23 @@
+[
+  {
+    "title": "JavaScript 简介",
+    "slug": "javascript",
+    "category": "编程语言",
+    "tags": ["js", "前端"],
+    "summary": "JavaScript 是一种轻量级的解释型编程语言，主要用于网页开发。"
+  },
+  {
+    "title": "Python 入门",
+    "slug": "python",
+    "category": "编程语言",
+    "tags": ["python", "后端"],
+    "summary": "Python 是一种易于学习、功能强大的高级编程语言。"
+  },
+  {
+    "title": "万维网",
+    "slug": "world-wide-web",
+    "category": "互联网",
+    "tags": ["web", "http"],
+    "summary": "万维网是基于互联网的信息系统，通过超链接相互连接。"
+  }
+]
